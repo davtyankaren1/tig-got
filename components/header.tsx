@@ -70,7 +70,7 @@ export default function Header({ onCartClick }: HeaderProps) {
 
   const navItems = [
     { name: "Գլխավոր", id: "hero" },
-    { name: "Ցանկ", id: "menu" },
+    { name: "Մենյու", id: "menu" },
     { name: "Թիմ", id: "team" },
     { name: "Մեր մասին", id: "about" },
     { name: "Կապ", id: "contact" }

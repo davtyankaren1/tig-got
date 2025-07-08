@@ -210,7 +210,7 @@ export default function Menu() {
             className='text-3xl lg:text-4xl font-bold text-gray-900 mb-4'
             style={{ fontFamily: "Arial" }}
           >
-            Մեր <span className='text-[#DC2626]'>ցանկը</span>
+            Մեր <span className='text-[#DC2626]'>Մենյու</span>
           </h2>
           <p className='text-lg text-gray-600 max-w-2xl mx-auto'>
             Բարձրորակ բաղադրիչներով և ավանդական բաղադրատոմսերով պատրաստված համեղ
